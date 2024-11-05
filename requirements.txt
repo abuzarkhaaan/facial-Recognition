@@ -1,0 +1,6 @@
+opencv-python
+numpy
+torch
+insightface
+Pillow
+tk
